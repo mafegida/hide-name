@@ -1,6 +1,6 @@
 # @mafegida/hide-name
 
-Function to mask name
+Function to mask name.
 
 ## Install
 
